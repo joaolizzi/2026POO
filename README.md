@@ -39,6 +39,7 @@ Aplicação dos conceitos usando uma linguagem orientada a objetos.
 - [Aula 03](./aulas/aula03/03-entrada-dados-typescript.md)
 - [Aula 04](./aulas/aula04/04-poo-typescript.md)
 - [Aula 05](./aulas/aula05/05-poo-typescript.md)
+- [Aula 06](./aulas/aula06/06-heranca-typescript.md)
 
 
 ## Atividades (links)
