@@ -8,9 +8,7 @@
     "dev:01": "ts-node src/01-metodos.ts",
     "dev:02": "ts-node src/02-encapsulamento.ts",
     "dev:03": "ts-node src/03-construtor.ts",
-    "dev:04": "ts-node src/04-get-set.ts",
-    "dev:05": "ts-node src/05-heranca.ts",
-    "dev:06": "ts-node src/06-conta-bancaria.ts"
+    "dev:04": "ts-node src/04-get-set.ts"
   },
   "keywords": [],
   "author": "",
