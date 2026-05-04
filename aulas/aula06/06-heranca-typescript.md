@@ -414,43 +414,8 @@ professor1.apresentar();
 
 ---
 
-## 8) Exemplo para executar em sala
 
-```ts
-class Veiculo {
-  protected marca: string;
-  protected modelo: string;
-
-  constructor(marca: string, modelo: string) {
-    this.marca = marca;
-    this.modelo = modelo;
-  }
-
-  exibirDados(): void {
-    console.log(`Marca: ${this.marca}`);
-    console.log(`Modelo: ${this.modelo}`);
-  }
-}
-
-class Carro extends Veiculo {
-  private portas: number;
-
-  constructor(marca: string, modelo: string, portas: number) {
-    super(marca, modelo);
-    this.portas = portas;
-  }
-
-  exibirDados(): void {
-    super.exibirDados();
-    console.log(`Portas: ${this.portas}`);
-  }
-}
-
-const carro1 = new Carro("Toyota", "Corolla", 4);
-carro1.exibirDados();
-```
-
-## Resumo para estudo
+## 8) Resumo para estudo
 
 - **Herança** é o mecanismo que permite criar uma classe com base em outra.
 - A classe mais geral é chamada de **superclasse**.
