@@ -19,7 +19,7 @@ Os arquivos de exemplo desta aula estão disponíveis na pasta [`exemplo`](./exe
 - [5) Herança e modificadores de acesso](#5-herança-e-modificadores-de-acesso)
 - [6) Sobrescrita de métodos](#6-sobrescrita-de-métodos)
 - [7) Exemplo completo: pessoa, aluno e professor](#7-exemplo-completo-pessoa-aluno-e-professor)
-- [Resumo para estudo](#8-resumo-para-estudo)
+- [8) Resumo para estudo](#8-resumo-para-estudo)
 
 ---
 
