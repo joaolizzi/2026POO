@@ -46,6 +46,7 @@ Aplicação dos conceitos usando uma linguagem orientada a objetos.
 - [Atv01 - 1º Bim](./atividades/Bim01/atv01.md)
 - [Atv02 - 1º Bim](./atividades/Bim01/atv02.md)
 - [Atv01 - 2º Bim](./atividades/Bim02/atv01.md)
+- [Atv02 - 2º Bim](./atividades/Bim02/atv02.md)
 
 ---
 
