@@ -9,9 +9,10 @@
 ---
 
 ## Entrega
+- Enviar link do repositório Git com commit final no Google Classroom;
+- O arquivo deve estar sem a pasta node_modules;
 - Demonstrar o programa funcionando no terminal
-- Apresentar e explicar o código no dia da entrega (conforme seção acima)
-- Enviar link do repositório Git com commit final no Google Classroom
+- Apresentar e explicar o código no dia da entrega (conforme seção acima).
 
 ---
 
